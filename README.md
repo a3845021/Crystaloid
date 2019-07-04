@@ -14,5 +14,5 @@ Project based by Cocos2d-x engine.
 
 
 
-**Google Play** 
-https://play.google.com/store/apps/details?id=com.nazoroot.crystaloid
+**Release** 
+ - Google Play: https://play.google.com/store/apps/details?id=com.nazoroot.crystaloid
