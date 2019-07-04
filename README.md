@@ -11,3 +11,7 @@ Project based by Cocos2d-x engine.
  - 2 - red (6.1k Ohms 5%)
  - 3 - green (29k Ohms .05% 50ppm)
  - 4 - blue (2.1M Ohms 5%)
+
+
+**Google Play**
+https://play.google.com/store/apps/details?id=com.nazoroot.crystaloid
