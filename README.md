@@ -3,9 +3,9 @@ Arcade game like Breakout.
 
 Project based by Cocos2d-x engine.
 
-Don't forget to copy the directory "cocos2d" to project before building.
+*Don't forget to copy the directory "cocos2d" to project before building.*
 
-Map legend:
+**Map legend:**
  - 0 - empty
  - 1 - beige (42 Ohms 2%)
  - 2 - red (6.1k Ohms 5%)
