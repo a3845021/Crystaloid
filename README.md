@@ -13,6 +13,6 @@ Project based by Cocos2d-x engine.
  - 4 - blue (2.1M Ohms 5%)
 
 
-**Google Play**
 
+**Google Play** 
 https://play.google.com/store/apps/details?id=com.nazoroot.crystaloid
